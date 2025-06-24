@@ -1,11 +1,13 @@
 # 🚀 SubsCheck-Win-GUI
+
 首先声明，这款软件并非我原创开发。Subs-Check是由 [bestruirui](https://github.com/bestruirui/BestSub) 原创、由 [beck-8](https://github.com/beck-8/subs-check) 进行二次开发，而我所编写的 GUI 仅是在这两位开发者的原始版本基础上进行的 **二次开发**。
 
 - **视频教程：[永久免费0门槛！小白也有无限高速代理节点！](https://youtu.be/sS9Tuf1PCyc)**
 - **数字签名：[关于项目报毒说明](https://www.youtube.com/watch?v=4906t5zygAE&t=123s)**
 - **Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)**
 
-# ⚠️ 免责声明
+## ⚠️ 免责声明
+
 本项目仅供学习、研究与安全测试使用，请勿用于任何非法活动。使用前请确保您已了解并遵守所在地的法律法规。
 
 ### 📋 使用条款
@@ -26,6 +28,7 @@
 ![GUI](./gui.png)
 
 ## 🖥️ 系统要求
+
 - **操作系统**: Windows 10/11 (32位/64位)
 - **.NET 框架**: .NET Framework 4.7.2 或更高版本
 
@@ -40,11 +43,14 @@
 - **webdav**：将结果保存到 webdav 服务器 [配置方法](https://github.com/beck-8/subs-check/blob/master/doc/webdav.md)
 
 ## 📦 关于 Github Proxy
+
 - **Github Proxy**：本项目使用了 `Github Proxy` 来加速 GUI 必要内容的加载。
+
 > [!Tip]
-> 你也可以通过 https://github.com/cmliu/CF-Workers-GitHub 项目来搭建自己专属的 **Github Proxy**。
+> 你也可以通过 <https://github.com/cmliu/CF-Workers-GitHub> 项目来搭建自己专属的 **Github Proxy**。
 
 ## 📁 GUI 文件结构
+
 ```shell
 subs-check.win.gui.exe       # GUI本体
 subs-check.exe               # subs-check x86_32位 内核本体  
@@ -72,11 +78,14 @@ YamlDotNet.xml               # yaml读写组件
 ```
 
 ## ⭐ Star 星星走起
+
 [![Stargazers over time](https://starchart.cc/cmliu/SubsCheck-Win-GUI.svg?variant=adaptive)](https://starchart.cc/cmliu/SubsCheck-Win-GUI)
 
 ## 💻 已适配客户端
-   - [v2rayN](https://github.com/2dust/v2rayN)
-   - [mihomo-party](https://github.com/mihomo-party-org/mihomo-party)，[FlClash](https://github.com/chen08209/FlClash)，[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)，[Clash Nyanpasu](https://github.com/keiko233/clash-nyanpasu)
 
-# 🙏 致谢
+- [v2rayN](https://github.com/2dust/v2rayN)
+- [mihomo-party](https://github.com/mihomo-party-org/mihomo-party)，[FlClash](https://github.com/chen08209/FlClash)，[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)，[Clash Nyanpasu](https://github.com/keiko233/clash-nyanpasu)
+
+## 🙏 致谢
+
 [beck-8](https://github.com/beck-8/subs-check)、[bestruirui](https://github.com/bestruirui/BestSub)、[Sub-Store](https://github.com/sub-store-org/Sub-Store)、GPT
